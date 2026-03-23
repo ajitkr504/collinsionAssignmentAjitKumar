@@ -76,7 +76,7 @@ appium --use-drivers=uiautomator2,xcuitest
 
 ### 3. Build the app
 
-For a WebView-based mobile app (e.g. Capacitor):
+For a WebView-based mobile app:
 ```bash
 npm run build
 npx cap sync
